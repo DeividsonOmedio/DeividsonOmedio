@@ -6,9 +6,10 @@ Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o 
 
 ## Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/deivison_314/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/deividson-omedio/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/deivison-cassimiro-3ab207238/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/deividsonomedio/)
+
 
 <div>
   <a href="https://github.com/fabis-li">

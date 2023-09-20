@@ -1,7 +1,7 @@
 # Deividson Omédio
 
 ## Sobre
-Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o curso técnico em Informática para internet pelo SENAI.
+Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o curso técnico em Informática para internet pelo SENAI e sou Desenvolvedor .Net. 
 
 
 ## Redes Sociais
@@ -35,7 +35,7 @@ Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o 
 
 
 
-### Hi there 👋
+
 
 
 

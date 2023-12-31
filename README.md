@@ -1,7 +1,7 @@
 # Deividson Omédio
 
 ## Sobre
-Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o curso técnico em Informática para internet pelo SENAI e sou Desenvolvedor .Net. 
+Meu nome é Deividson Coelho, tenho 33 anos, técnico em Informática para internet pelo SENAI, Desenvolvedor .Net e 1x Certificado AWS. 
 
 
 ## Redes Sociais
@@ -12,7 +12,7 @@ Meu nome é Deividson Omédio, tenho 33 anos e atualmente estou no terminando o 
 
 
 <div>
-  <a href="https://github.com/fabis-li">
+  <a href="https://github.com/DeividsonOmedio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividsonOmedio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividsonOmedio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>

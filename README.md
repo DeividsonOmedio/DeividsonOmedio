@@ -1,7 +1,13 @@
 # Deividson Omédio
 
 ## Sobre
-Meu nome é Deividson Coelho, tenho 33 anos, técnico em Informática para internet pelo SENAI, Desenvolvedor .Net e 1x Certificado AWS. 
+Sou formado em Técnico em informática para Internet pelo Senai, Estudo .Net a 2 anos, possuo certificação AWS Cloud Practitioner e estou cursando Engenharia de Software.
+
+Tenho mais de 15 anos no mercado de trabalho, onde adquiri inúmeras habilidades tanto pessoais quanto interpessoais. No momento estou em fase de transição de carreira para a área de tecnologia, a qual comecei a estudar a 2 anos atrás estudando C#.
+
+Tenho desenvolvido nesses 2 anos projetos em .Net, como API's, e sistemas full-stack com Blazor e Maui. No lado do Front-end tenho bons conhecimentos e projetos utilizando HTML, CSS, Javascript e frameworks como Angula e Bootstrap.
+
+Possuo espírito de liderança, foco, me comunico bem, busco sempre a melhoria dos processos e relacionamentos, além de uma busca contínua por aumentar conhecimentos e aplicá-los.
 
 
 ## Redes Sociais
